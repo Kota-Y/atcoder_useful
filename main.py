@@ -28,7 +28,7 @@ def main():
     else:
         send_text = '今日も精進お疲れ様！'
 
-    slack_notify(send_text)
+    # slack_notify(send_text)
 
 if __name__ == '__main__':
     main()
